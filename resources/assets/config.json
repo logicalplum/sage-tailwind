@@ -8,8 +8,8 @@
       "./scripts/customizer.js"
     ]
   },
-  "publicPath": "/app/themes/sage-tailwind",
-  "devUrl": "http://sage.test",
+  "publicPath": "/app/themes/sage-logicalplum",
+  "devUrl": "http://logicalplum.test",
   "proxyUrl": "http://localhost:3000",
   "cacheBusting": "[name]_[hash:8]",
   "watch": [
